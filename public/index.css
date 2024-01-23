@@ -9,6 +9,14 @@ body {
   min-height: 100vh;
 }
 
+.header {
+  padding: 0.1px;
+  text-align: center;
+  background: #F89e08;
+  color: black;
+  font-size: 30px;
+}
+
 .fa-magnifying-glass {
   color: white;
 }
